@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "panvicka blog",
+    "description": "",
+    "home_page_url": "https://panvicka.github.io/gh-blog",
+    "feed_url": "https://panvicka.github.io/gh-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "rendlik"
+    },
+    "items": [
+        {
+            "id": "https://panvicka.github.io/gh-blog/hello-world.html",
+            "url": "https://panvicka.github.io/gh-blog/hello-world.html",
+            "title": "hello world",
+            "summary": "tdb",
+            "content_html": "<p>tdb</p>",
+            "author": {
+                "name": "rendlik"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-29T20:04:06+01:00",
+            "date_modified": "2025-01-29T20:04:06+01:00"
+        }
+    ]
+}

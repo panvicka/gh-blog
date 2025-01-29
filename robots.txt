@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://panvicka.github.io/gh-blog/sitemap.xml
