@@ -1,31 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>panvicka blog</title>
+    <title>Mostly interesting stuff</title>
     <link href="https://panvicka.github.io/gh-blog/feed.xml" rel="self" />
     <link href="https://panvicka.github.io/gh-blog" />
-    <updated>2025-01-29T20:04:06+01:00</updated>
+    <updated>2025-03-10T13:00:39+01:00</updated>
     <author>
-        <name>rendlik</name>
+        <name>panvicka</name>
     </author>
     <id>https://panvicka.github.io/gh-blog</id>
 
     <entry>
-        <title>hello world</title>
+        <title>How to Add a Kindle Dictionary: A Step-by-Step Guide</title>
         <author>
-            <name>rendlik</name>
+            <name>panvicka</name>
         </author>
-        <link href="https://panvicka.github.io/gh-blog/hello-world.html"/>
-        <id>https://panvicka.github.io/gh-blog/hello-world.html</id>
+        <link href="https://panvicka.github.io/gh-blog/adding-a-dictionary-to-kindle.html"/>
+        <id>https://panvicka.github.io/gh-blog/adding-a-dictionary-to-kindle.html</id>
+        <media:content url="https://panvicka.github.io/gh-blog/media/posts/2/IMG_2642.jpg" medium="image" />
+            <category term="tech"/>
 
-        <updated>2025-01-29T20:04:06+01:00</updated>
+        <updated>2025-03-10T12:52:26+01:00</updated>
             <summary>
                 <![CDATA[
-                    tdb
+                        <img src="https://panvicka.github.io/gh-blog/media/posts/2/IMG_2642.jpg" alt="List of kindle dictionaries" />
+                    I've been happily using my Kindle for six years with three different dictionaries. Yesterday, I wanted to add a new dictionary. How hard can this be? Well, it took longer than I want to admit. Some screenshots I found online were no longer valid… And&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>tdb</p>
+                    <p><img src="https://panvicka.github.io/gh-blog/media/posts/2/IMG_2642.jpg" class="type:primaryImage" alt="List of kindle dictionaries" /></p>
+                <p>I've been happily using my Kindle for six years with three different dictionaries. Yesterday, I wanted to add a new dictionary. How hard can this be? Well, it took longer than I want to admit. Some screenshots I found online were no longer valid…  And just a note, you do not need an active Kindle subscription to do this.</p>
+<h3 id="findingthedictionarymenu">Finding the Dictionary Menu</h3>
+<p>There is a <code>Settings -&gt; Device Options -&gt; Language and Dictionaries -&gt; Dictionaries</code> menu, but as far as I can tell, you can only see the dictionaries here and maybe set the default one. But to see a dictionary here, you have to first download it.</p>
+<h3 id="downloadingthedictionary">Downloading the Dictionary</h3>
+<p>What you actually have to do is go to the <code>Library</code> and scroll to the very bottom.</p>
+<p>Does this take ages when you have a lot of books, audiobooks, and PDFs that show in the list? <strong>Yes.</strong></p>
+<p>Have I found a quick way to reach the bottom other than clicking the arrow over and over again? <strong>No.</strong></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://panvicka.github.io/gh-blog/media/posts/2/IMG_2639.jpg" alt="Kindle dictionary folder" width="500" height="666" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://panvicka.github.io/gh-blog/media/posts/2/responsive/IMG_2639-xs.jpg 640w ,https://panvicka.github.io/gh-blog/media/posts/2/responsive/IMG_2639-sm.jpg 768w ,https://panvicka.github.io/gh-blog/media/posts/2/responsive/IMG_2639-md.jpg 1024w ,https://panvicka.github.io/gh-blog/media/posts/2/responsive/IMG_2639-lg.jpg 1366w ,https://panvicka.github.io/gh-blog/media/posts/2/responsive/IMG_2639-xl.jpg 1600w ,https://panvicka.github.io/gh-blog/media/posts/2/responsive/IMG_2639-2xl.jpg 1920w"></figure>
+<p>The second to last position is a folder named <code>Dictionaries</code>. Go inside, find the dictionary you want, and click it to download.</p>
+<h3 id="usingthenewdictionary">Using the New Dictionary</h3>
+<p>From this point, it should be easy to use it. Go back to your book, mark a word you want to translate, wait for the pop-up, and click on the dictionary name. You will then be able to select the new dictionary.</p>
+<h3 id="anoteonux">A Note on UX</h3>
+<p>The setup of the dictionaries is actually very easy when you first get your Kindle since the library is empty and the folder "Dictionaries" is right there, in your face. Let some years pass, and it will get deeper into forgetfulness. For me, it's kind of a UX fail.</p>
             ]]>
         </content>
     </entry>
