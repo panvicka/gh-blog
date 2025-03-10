@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://panvicka.github.io/gh-blog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.panvicka.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://panvicka.github.io/gh-blog/</loc>
+<loc>https://blog.panvicka.com/</loc>
 </url>
 <url>
-<loc>https://panvicka.github.io/gh-blog/adding-a-dictionary-to-kindle.html</loc>
+<loc>https://blog.panvicka.com/adding-a-dictionary-to-kindle.html</loc>
 <lastmod>2025-03-10T13:00:39+01:00</lastmod>
 <image:image>
-<image:loc>https://panvicka.github.io/gh-blog/media/posts/2/IMG_2642.jpg</image:loc>
+<image:loc>https://blog.panvicka.com/media/posts/2/IMG_2642.jpg</image:loc>
 <image:title><![CDATA[List of kindle dictionaries]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://panvicka.github.io/gh-blog/media/posts/2/IMG_2639.jpg</image:loc>
+<image:loc>https://blog.panvicka.com/media/posts/2/IMG_2639.jpg</image:loc>
 <image:title><![CDATA[Kindle dictionary folder]]></image:title>
 </image:image>
 </url>
