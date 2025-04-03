@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://blog.panvicka.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.blog.panvicka.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://blog.panvicka.com/</loc>
+<loc>https://www.blog.panvicka.com/</loc>
 </url>
 <url>
-<loc>https://blog.panvicka.com/adding-a-dictionary-to-kindle/</loc>
+<loc>https://www.blog.panvicka.com/adding-a-dictionary-to-kindle/</loc>
 <lastmod>2025-03-15T16:28:58+01:00</lastmod>
 <image:image>
-<image:loc>https://blog.panvicka.com/media/posts/2/IMG_2642.jpg</image:loc>
+<image:loc>https://www.blog.panvicka.com/media/posts/2/IMG_2642.jpg</image:loc>
 <image:title><![CDATA[List of kindle dictionaries]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blog.panvicka.com/media/posts/2/IMG_2639.jpg</image:loc>
+<image:loc>https://www.blog.panvicka.com/media/posts/2/IMG_2639.jpg</image:loc>
 <image:title><![CDATA[Kindle dictionary folder]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://blog.panvicka.com/buenos-aires-beginner-guide-part-1-getting-of-the-airport/</loc>
+<loc>https://www.blog.panvicka.com/buenos-aires-beginner-guide-part-1-getting-of-the-airport/</loc>
 <lastmod>2025-03-22T19:01:07+01:00</lastmod>
 <image:image>
-<image:loc>https://blog.panvicka.com/media/posts/3/IMG_0836.jpg</image:loc>
+<image:loc>https://www.blog.panvicka.com/media/posts/3/IMG_0836.jpg</image:loc>
 <image:title><![CDATA[Busy city with a lot of cars and big white obelist]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://blog.panvicka.com/buenos-aires-beginner-guide-part-2-the-hunt-for-a-sim-in-buenos-aires/</loc>
+<loc>https://www.blog.panvicka.com/buenos-aires-beginner-guide-part-2-the-hunt-for-a-sim-in-buenos-aires/</loc>
 <lastmod>2025-03-22T18:52:12+01:00</lastmod>
 </url>
 <url>
-<loc>https://blog.panvicka.com/buenos-aires-guide-part-3-exchanging-currency-in-buenos-aires/</loc>
+<loc>https://www.blog.panvicka.com/buenos-aires-guide-part-3-exchanging-currency-in-buenos-aires/</loc>
 <lastmod>2025-03-22T19:04:15+01:00</lastmod>
 </url>
 </urlset>
